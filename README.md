@@ -1,2 +1,2 @@
 # plk2.github.io
-Archive of my website https://aleph.press
+Archive of my website [https://aleph.press](https://aleph.press)
